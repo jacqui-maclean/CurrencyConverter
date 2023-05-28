@@ -1,0 +1,19 @@
+.heading {
+  color: whitesmoke;
+  padding-top: "12px";
+}
+.form {
+  margin-top: "10px";
+}
+.result {
+  border-radius: 4px;
+  padding: 17px;
+  text-align: center;
+  color: #392e2e;
+  background-color: whitesmoke;
+}
+.formContainer {
+  background-color: #091a72;
+  padding: 20px;
+  border-radius: 8px;
+}
