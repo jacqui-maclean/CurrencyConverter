@@ -1,4 +1,4 @@
-This is the currency converter used for the tech test. It uses hooks and the more modern steamlined approach to redux using createslice.
+Using hooks and the more modern steamlined approach to redux using createslice.
 
 <!-- # Getting Started with Create React App and Redux
 
