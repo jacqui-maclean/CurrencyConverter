@@ -1,4 +1,10 @@
-Using hooks, redux toolkit and trying out different css modules - styled components, css modules and fallback is bootstrap
+To use this...
+
+npm install
+
+npm start
+
+This project uses hooks, redux toolkit and different approaches to css - styled components, css modules and bootstrap. Framer-motion library used for animation.
 
 <!-- # Getting Started with Create React App and Redux
 
